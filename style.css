@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/pokemonBackground2.jpg);
 }
 
 #title {
@@ -15,6 +16,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: white;
 }
 
 #answers div {
